@@ -16,10 +16,12 @@ This repository is devoted to reproducing dedensification algorithms for graph q
 
 <img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/exmpl_ded.PNG" alt="A simple example of dedensification on a bipartite graph" width="600" height="200">
 
-
+A simple example of dedensification on a bipartite graph
 
 <img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/exmpl_ded_complicated.PNG" alt="A complex example of dedensification on a bipartite graph" width="600" height="200">
 
-
+A complex example of dedensification on a bipartite graph
 
 <img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/density%20overview.png" alt="Overview of dataset densities, with ordered nodes on x axis and amount of edges connected to it on y" width="1000" height="500">
+
+Overview of dataset densities, with ordered nodes on x axis and amount of edges connected to it on y
