@@ -14,14 +14,26 @@ This repository is devoted to reproducing dedensification algorithms for graph q
 * * The Dedensification Algorithm performs well on all datasets, ideal parameter T has been found for all of them
 * * By using clustering technique we can define 5 groups of datasets, which significantly differ on dedensification performance. This allows us to focus on particular datasets, on which we will perform dedensification, when we have limited computational resources
 
-<img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/exmpl_ded.PNG" alt="A simple example of dedensification on a bipartite graph" width="600" height="200">
+<p align="center">
+  <img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/exmpl_ded.PNG" alt="A simple example of dedensification on a bipartite graph" width="600"      height="200">
+</p>
 
-A simple example of dedensification on a bipartite graph
+<p align="center">
+  A simple example of dedensification on a bipartite graph
+</p>
 
-<img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/exmpl_ded_complicated.PNG" alt="A complex example of dedensification on a bipartite graph" width="600" height="200">
+<p align="center">
+  <img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/exmpl_ded_complicated.PNG" alt="A complex example of dedensification on a bipartite graph" width="600" height="200">
+</p>
 
-A complex example of dedensification on a bipartite graph
+<p align="center">
+  A complex example of dedensification on a bipartite graph
+</p>
+  
+<p align="center">
+  <img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/density%20overview.png" alt="Overview of dataset densities, with ordered nodes on x axis and amount of edges connected to it on y" width="1000" height="500">
+</p>
 
-<img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/density%20overview.png" alt="Overview of dataset densities, with ordered nodes on x axis and amount of edges connected to it on y" width="1000" height="500">
-
-Overview of dataset densities, with ordered nodes on x axis and amount of edges connected to it on y
+<p align="center">
+  Overview of dataset densities, with ordered nodes on x axis and amount of edges connected to it on y
+</p>
