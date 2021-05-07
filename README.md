@@ -15,7 +15,7 @@ This repository is devoted to reproducing dedensification algorithms for graph q
 * * By using clustering technique we can define 5 groups of datasets, which significantly differ on dedensification performance. This allows us to focus on particular datasets, on which we will perform dedensification, when we have limited computational resources
 
 <p align="center">
-  <img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/exmpl_ded.PNG" alt="A simple example of dedensification on a bipartite graph" width="600"      height="200">
+  <img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/exmpl_ded.PNG" alt="A simple example of dedensification on a bipartite graph" width="600"      height="250">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ This repository is devoted to reproducing dedensification algorithms for graph q
 </p>
 
 <p align="center">
-  <img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/exmpl_ded_complicated.PNG" alt="A complex example of dedensification on a bipartite graph" width="600" height="200">
+  <img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/exmpl_ded_complicated.PNG" alt="A complex example of dedensification on a bipartite graph" width="600" height="250">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ This repository is devoted to reproducing dedensification algorithms for graph q
 </p>
   
 <p align="center">
-  <img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/density%20overview.png" alt="Overview of dataset densities, with ordered nodes on x axis and amount of edges connected to it on y" width="1000" height="500">
+  <img src="https://github.com/Kacper-Sawicz/Dedensification-of-graphs/blob/main/density%20overview.png" alt="Overview of dataset densities, with ordered nodes on x axis and amount of edges connected to it on y" width="1000" height="700">
 </p>
 
 <p align="center">
